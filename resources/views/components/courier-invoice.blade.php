@@ -75,7 +75,7 @@
                 <div class="col-5 text-start">
                     <div><strong><small>Collection From:</small> </strong></div>
                     <div>
-                        <small class="extra_spacing">Priyansu Chouhan</small>
+                        <small class="extra_spacing">Albert Michael</small>
                     </div>
                     <div>
                         <small class="extra_spacing">2 K 4, Old Housing Board</small>
@@ -85,29 +85,29 @@
                         <small class="extra_spacing">+91 7789546525</small>
                     </div>
                     <div>
-                        <small class="extra_spacing">Pali,Rajasthan,306401</small>
+                        <small class="extra_spacing">Red Hill, Canberra, 2600</small>
                     </div>
                     <div>
-                        <small class="extra_spacing">India</small>
+                        <small class="extra_spacing">Australia</small>
                     </div>
                 </div>
                 <div class="col-5 text-end ">
                     <div><strong><small>Billing Address:</small></strong></div>
                     <div>
-                        <small>Lalit Chouhan</small>
+                        <small>JONE DOE</small>
                     </div>
                     <div>
-                        <small>418,Bajrang Nagar</small>
-                        <small>Pali-Marwar</small>
+                        <small>100 Harris St, Bellevue Hill</small>
+                        <small>New South Wales</small>
                     </div>
                     <div>
-                        <small>+91 9521040882</small>
+                        <small>+61 854528254</small>
                     </div>
                     <div>
-                        <small>Pali,Rajasthan,306401</small>
+                        <small>New South Wales,Sydney,2023</small>
                     </div>
                     <div>
-                        <small>India</small>
+                        <small>Australia</small>
                     </div>
                 </div>
             </div>
@@ -125,16 +125,16 @@
                 <div class="col-5 text-end">
                     <div><small><strong>Delivery Address:</strong></small></div>
                     <div>
-                        <small>Lalit Chouhan</small>
+                        <small>JONE DOE</small>
                     </div>
                     <div>
-                        <small>418,Bajrang Nagar</small>
+                        <small>100 Harris St, Bellevue Hill</small>
                     </div>
                     <div>
-                        <small>+91 9521040882</small>
+                        <small>+61 854528254</small>
                     </div>
                     <div>
-                        <small>Pali,Rajasthan,306401</small>
+                        <small>New South Wales,Sydney,2023</small>
                     </div>
                 </div>
             </div>
@@ -146,8 +146,8 @@
                 </div>
                 <div class="col-5 text-end">
                     <div><small><strong>State/UT Code: </strong>08 </small> </div>
-                    <div><small><strong>Place of supply: </strong>RAJASTHAN </small> </div>
-                    <div><small><strong>Place of delivery: </strong>RAJASTHAN </small> </div>
+                    <div><small><strong>Place of supply: </strong> CANBERRA </small> </div>
+                    <div><small><strong>Place of delivery: </strong>SYDNEY</small> </div>
                 </div>
             </div>
 
@@ -207,8 +207,8 @@
                         </tr>
                         <tr>
                             <td colspan="6" class="text-end">
-                                <label style="font-size: 1.1em;">Priyanshu Chouhan</label><br>
-                                <strong class="strong_fS">Authorized Signature</strong>
+                                <label style="font-size: 1.1em;">Albert Michael</label><br>
+                                <strong class="strong_fS">Authorized Signature</strong> 
                             </td>
                         </tr>
                     </tbody>
