@@ -61,11 +61,14 @@
                             <div><strong>Booking No.: </strong>45629596562</div>
                         </td>
                     </tr>
-                    <tr> <td class=" text-center">{!! DNS1D::getBarcodeHTML('45629596562', 'C128') !!}</td></tr>
+                    <tr> 
+                            <td class=" text-center">{!! DNS1D::getBarcodeSVG('45629596562', 'C128',3,60) !!}</td>
+                           
+                    </tr>
                     <tr>
                         <td> <strong>Refrence No.:</strong>45629596562-0001</td>
                     </tr>
-                    <tr> <td class=" text-center">{!! DNS1D::getBarcodeHTML('45629596562-0001', 'C128') !!}</td></tr>
+                    <tr> <td class=" text-center">{!! DNS1D::getBarcodeSVG('45629596562-0001', 'C128',3,60) !!}</td></tr>
                     
                 </tbody>
                 <tfoot class="table-group-divider">
