@@ -49,11 +49,11 @@
                     
                     <tr>
                         <td><strong>Delivery Address:</strong>
-                            <p class="delivery_address">Name</p>
-                            <p class="delivery_address">Address</p>
-                            <p class="delivery_address">Contact Number: 9012345657</p>
-                            <p class="delivery_address">Pali / Rajastan</p>
-                            <p class="delivery_address">306401</p>
+                            <p class="delivery_address">JONE DOE</p>
+                            <p class="delivery_address">100 Harris St, Bellevue Hill</p>
+                            <p class="delivery_address">Contact Number: +61 854528254</p>
+                            <p class="delivery_address">New South Wales, Sydney (Australia)</p>
+                            <p class="delivery_address">2023</p>
                         </td>
                     </tr>
                     <tr>
@@ -72,7 +72,7 @@
                     
                 </tbody>
                 <tfoot class="table-group-divider">
-                    <tr><td><small><strong>Sold By: </strong>company name with full address and postal code 306401</small></td></tr>
+                    <tr><td><small><strong>Sold By: </strong>company name with full address and postal code 2023</small></td></tr>
                 </tfoot>
             </table>
         </div>
