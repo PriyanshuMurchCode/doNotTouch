@@ -49,7 +49,7 @@
                     
                     <tr>
                         <td><strong>Delivery Address:</strong>
-                            <p class="delivery_address">JONE DOE</p>
+                            <p class="delivery_address">John Doe</p>
                             <p class="delivery_address">100 Harris St, Bellevue Hill</p>
                             <p class="delivery_address">Contact Number: +61 854528254</p>
                             <p class="delivery_address">New South Wales, Sydney (Australia)</p>
