@@ -64,7 +64,7 @@
             <div class="text-end"><button id="btn-print" class="noPrint" onclick="window.print()">Print</button></div>
             <div class="d-flex mt-4">
                 <div class="col-3">
-                    <img src="login.png" alt="YOCOSO" style="width: 100%; height: auto;">
+                    <img src="{{asset('/login.png')}}" alt="YOCOSO" style="width: 100%; height: auto;">
                 </div>
                 <div class="col-9 d-flex justify-content-end align-items-center">
                     <h5 class="m-0">Invoice Detail</h5>
