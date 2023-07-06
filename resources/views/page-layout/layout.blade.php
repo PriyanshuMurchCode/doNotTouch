@@ -38,7 +38,10 @@
                                 <li><a class="dropdown-item" href="{{ route('image-with-dynamic-table') }}">Image Upload With Dynamic Table</a></li>
                                 <li><hr class="dropdown-divider"></li>
                                 <li><a class="dropdown-item" href="{{ route('compress-image') }}">Compress Image</a></li>
-
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" href="{{ route('courier-barcode') }}">Courier Barcode</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" href="{{ route('courier-invoice') }}">Courier Invoice</a></li>
                             </ul>
                         </li>
                     </ul>

@@ -22,4 +22,6 @@ Route::get('/', function () {
 Route::view('image-with-dynamic-table', 'components.image-with-dynamic-table')->name('image-with-dynamic-table');
 Route::view('compress-image', 'components.compress-image')->name('compress-image');
 Route::view('order-invoice', 'components.order-invoice-html')->name('order-invoice');
+Route::view('courier-invoice', 'components.courier-invoice')->name('courier-invoice');
+Route::view('courier-barcode', 'components.courier-barcode')->name('courier-barcode');
 Route::match(['get','post'], 'login', [MasterController::class, 'login'])->name('login');

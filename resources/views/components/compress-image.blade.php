@@ -104,6 +104,8 @@
                 link.download = file.name; // this name is used when the user downloads the file
                 link.href = objectURL;
             }
+
+            
         });
     </script>
 @endsection
