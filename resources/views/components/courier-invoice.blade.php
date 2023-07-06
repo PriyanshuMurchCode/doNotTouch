@@ -78,8 +78,8 @@
                         <small class="extra_spacing">Albert Michael</small>
                     </div>
                     <div>
-                        <small class="extra_spacing">2 K 4, Old Housing Board</small>
-                        <small class="extra_spacing">Pali-Marwar</small>
+                        <small class="extra_spacing">2 K 4, Seven Street</small>
+                        <small class="extra_spacing">Red Hill</small>
                     </div>
                     <div>
                         <small class="extra_spacing">+91 7789546525</small>
